@@ -1,0 +1,10 @@
+## python pipenv
+.env
+.venv
+env/
+venv/
+
+
+## gitpod
+.theia
+© 2019 GitHub, Inc.
